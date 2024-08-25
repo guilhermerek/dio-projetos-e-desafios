@@ -5,3 +5,6 @@ Desafio 1:
 
 Desafio 2: 
 [Trilha Java Básico - Desafio: Controle de Fluxo](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)
+
+Desafio 3: 
+[Trilha Java Básico - Desafio: Modelagem e Diagramação de um Componente iPhone](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
