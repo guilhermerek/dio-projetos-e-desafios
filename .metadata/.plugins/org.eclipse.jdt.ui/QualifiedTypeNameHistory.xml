@@ -5,4 +5,8 @@
     <fullyQualifiedTypeName name="edu.desafio.ParametrosInvalidosException"/>
     <fullyQualifiedTypeName name="java.lang.Throwable"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="internetBrowser.SafariBrowserInterface"/>
+    <fullyQualifiedTypeName name="phone.AparelhoTelefonicoInterface"/>
+    <fullyQualifiedTypeName name="player.ReprodutorMusicaInterface"/>
+    <fullyQualifiedTypeName name="iPhone.IPhone"/>
 </qualifiedTypeNameHistroy>
