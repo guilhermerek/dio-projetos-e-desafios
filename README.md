@@ -8,3 +8,6 @@ Desafio 2:
 
 Desafio 3: 
 [Trilha Java Básico - Desafio: Modelagem e Diagramação de um Componente iPhone](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/poo)
+
+Desafio 4: 
+[Trilha Java Básico - Desafio: Banco Digital](https://github.com/falvojr/lab-banco-digital-oo)
