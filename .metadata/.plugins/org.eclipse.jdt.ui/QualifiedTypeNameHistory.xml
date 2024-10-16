@@ -9,4 +9,15 @@
     <fullyQualifiedTypeName name="phone.AparelhoTelefonicoInterface"/>
     <fullyQualifiedTypeName name="player.ReprodutorMusicaInterface"/>
     <fullyQualifiedTypeName name="iPhone.IPhone"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.ManyToOne"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="edu.dio.desafio5.model.ClienteRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="edu.dio.desafio5.model.EnderecoRepository"/>
+    <fullyQualifiedTypeName name="edu.dio.desafio5.service.ViaCepService"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 </qualifiedTypeNameHistroy>
