@@ -11,3 +11,6 @@ Desafio 3:
 
 Desafio 4: 
 [Trilha Java Básico - Desafio: Banco Digital](https://github.com/falvojr/lab-banco-digital-oo)
+
+Desafio 5: 
+[Design Patterns Básico - Desafio: Dos Clássicos (GoF) ao Spring Framework](https://github.com/digitalinnovationone/lab-padroes-projeto-spring)
